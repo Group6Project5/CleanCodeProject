@@ -20,7 +20,6 @@ namespace CleanCodeProject4
             AddMember("Ahmed Almutairi , Computer Science");
             AddMember("Thamer Mashni , Computer Science");
             xmldoc.Save(@"../../../Team.xml");
-            Console.WriteLine(xmldoc.InnerXml);
         }
         public void AddMember(string memberinfo)
         {

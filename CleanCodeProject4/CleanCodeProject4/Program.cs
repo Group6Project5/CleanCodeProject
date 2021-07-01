@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace CleanCodeProject4
 {
@@ -7,8 +8,15 @@ namespace CleanCodeProject4
         static void Main(string[] args)
         {
             XML xml = new XML();
-            xml.CreateXmlFile();
-            xml.ReadFile();
+
+            Thread WriteThread = new Thread(xml.CreateXmlFile);
+            Thread ReadThread = new Thread(xml.ReadFile);
+
+            WriteThread.Start();
+            WriteThread.Join();
+
+            ReadThread.Start();
+            ReadThread.Join();
         }
     }
 }

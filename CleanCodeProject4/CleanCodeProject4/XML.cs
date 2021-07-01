@@ -39,13 +39,13 @@ namespace CleanCodeProject4
             element1.AppendChild(element6);
             element6.AppendChild(text6);
 
-            xmldoc.Save(@"/Users/rawabeebrahim/Desktop/Team.xml");
+            xmldoc.Save(@"/Users/thamerasiri/Desktop/Team.xml");
             Console.WriteLine(xmldoc.InnerXml);
         }
         public void ReadFile()
         {
             XmlDocument xmldoc = new XmlDocument();
-            xmldoc.Load(@"/Users/rawabeebrahim/Desktop/Team.xml");
+            xmldoc.Load(@"/Users/thamerasiri/Desktop/Team.xml");
             foreach (XmlNode node in xmldoc.DocumentElement.ChildNodes)
             {
                 string element = node.Name;

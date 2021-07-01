@@ -1,0 +1,15 @@
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/bin/Debug/net5.0/CleanCodeProject4.deps.json
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/bin/Debug/net5.0/CleanCodeProject4.runtimeconfig.json
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/bin/Debug/net5.0/CleanCodeProject4.runtimeconfig.dev.json
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/bin/Debug/net5.0/CleanCodeProject4.dll
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/bin/Debug/net5.0/ref/CleanCodeProject4.dll
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/bin/Debug/net5.0/CleanCodeProject4.pdb
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/Debug/net5.0/CleanCodeProject4.csproj.AssemblyReference.cache
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/Debug/net5.0/CleanCodeProject4.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/Debug/net5.0/CleanCodeProject4.AssemblyInfoInputs.cache
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/Debug/net5.0/CleanCodeProject4.AssemblyInfo.cs
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/Debug/net5.0/CleanCodeProject4.csproj.CoreCompileInputs.cache
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/Debug/net5.0/CleanCodeProject4.dll
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/Debug/net5.0/ref/CleanCodeProject4.dll
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/Debug/net5.0/CleanCodeProject4.pdb
+/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/Debug/net5.0/CleanCodeProject4.genruntimeconfig.cache

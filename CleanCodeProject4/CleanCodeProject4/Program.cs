@@ -6,7 +6,9 @@ namespace CleanCodeProject4
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            XML xml = new XML();
+            xml.CreateXmlFile();
+            xml.ReadFile();
         }
     }
 }

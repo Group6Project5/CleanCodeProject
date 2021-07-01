@@ -8,26 +8,24 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\h--sa\\.nuget\\packages\\": {}
+    "/Users/rawabeebrahim/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\h--sa\\Desktop\\CleanCodeProject\\CleanCodeProject4\\CleanCodeProject4\\CleanCodeProject4.csproj",
+      "projectUniqueName": "/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/CleanCodeProject4.csproj",
       "projectName": "CleanCodeProject4",
-      "projectPath": "C:\\Users\\h--sa\\Desktop\\CleanCodeProject\\CleanCodeProject4\\CleanCodeProject4\\CleanCodeProject4.csproj",
-      "packagesPath": "C:\\Users\\h--sa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\h--sa\\Desktop\\CleanCodeProject\\CleanCodeProject4\\CleanCodeProject4\\obj\\",
+      "projectPath": "/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/CleanCodeProject4.csproj",
+      "packagesPath": "/Users/rawabeebrahim/.nuget/packages/",
+      "outputPath": "/Users/rawabeebrahim/Documents/CleanCodeProject/CleanCodeProject4/CleanCodeProject4/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\h--sa\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/rawabeebrahim/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +58,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\h--sa\\.dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
       }
     }
   }
